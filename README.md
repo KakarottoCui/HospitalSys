@@ -1,7 +1,7 @@
 # HospitalSys
 基于springboot的医院信息管理系统
 
-演示视频：https://live.csdn.net/v/175547
+演示视频：https://www.bilibili.com/video/BV1Mb4y1S7cQ/
 
 实现的功能：
 
